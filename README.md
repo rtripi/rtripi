@@ -16,7 +16,7 @@
 - Website layout i designed for my [local bakery](https://rtripi.github.io/sta_clara/) . 
 - [News website layout](https://rtripi.github.io/News_website_layout/).
 - [E commerce website Layout](https://rtripi.github.io/ECommerce_Layout/).
-- Website made as a result from a [JS course](https://rtripi.github.io/Animais_Fantasticos_js/ "Tons of js functionslities here =)") Tons of js functionalities here.
+- Website made as a result from a [JS course](https://rtripi.github.io/Animais_Fantasticos_js/ "Tons of js functionslities here =)") tons of js functionalities here.
 
 - Javascript exercise, [memory game](https://rtripi.github.io/JS_Memory_Game/ "One of many JS exercises I do, check out more of them on my reps").
 
