@@ -6,8 +6,8 @@
 - You can reach me on: 
 	*  [Instagram](https://www.instagram.com/renato.trip/)
 	*  [LinkedIn](https://www.linkedin.com/in/renato-tripi/)
-- Practicing daily js, css, sass, bootstrap and jquery
-- Currently learning Vue.js and React.js
+- Practicing daily js, css, ReactJs, bootstrap and jquery
+- Currently learning TypeScript
 
 ***
 ## Here are some stuff i´ve done.
