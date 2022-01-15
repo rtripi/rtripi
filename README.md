@@ -7,7 +7,7 @@
 	*  [Instagram](https://www.instagram.com/renato.trip/)
 	*  [LinkedIn](https://www.linkedin.com/in/renato-tripi/)
 - Practicing daily js, css, ReactJs, bootstrap and jquery
-- Currently learning TypeScript
+- Currently learning React Native.
 
 ***
 ## Here are some stuff i´ve done.
