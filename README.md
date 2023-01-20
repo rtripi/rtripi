@@ -2,12 +2,12 @@
 
 ### I´m Renato Tripi, from São Paulo, Brazil
 
-- Currently looking for a job as a Junior Front-end developer.
+- Currently looking for a job as a Junior Data analyst.
 - You can reach me on: 
 	*  [Instagram](https://www.instagram.com/renato.trip/)
 	*  [LinkedIn](https://www.linkedin.com/in/renato-tripi/)
-- Practicing daily js, css, ReactJs, bootstrap and jquery
-- Currently learning React Native.
+- Practicing daily excel, power BI, SQL.
+- Currently learning Python.
 
 ***
 ## Here are some stuff i´ve done.
